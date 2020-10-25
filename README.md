@@ -29,7 +29,7 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git.
 
 #### What I'm Learning Now 🌱
 
-* **Finite Automata** : 
+* **Automata Theory**
 * **Functional Programming & Haskell** | Learning to write Haskell using Pauk Hudak's The Haskell School of Expression, and (soon) in Sixth Form, as part of studying functional programming concepts.
 * **Lisp** | Learning to write in LISP using Peter Seibel's Practcial Common Lisp
 
