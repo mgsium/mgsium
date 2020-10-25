@@ -1,6 +1,8 @@
 ### :space_invader: Hi, I'm Musab 
 
-I'm a Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](https://nmspace.org).
+Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](https://nmspace.org).
+
+⚡ Fun fact: I am fluent in Arabic, and know a little Russian!
 
 > The Greeks have but one word λόγος, for both Speech and Reason; not that they thought there was no Speech without Reason; but no Reasoning without Speech.
 > 
@@ -11,7 +13,7 @@ I'm a Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](http
    * [Conure](https://www.conureapp.co.uk/) - A gamified task & planning web app.
    * [Namespace](https://nmspace.org) (Frontend) - Online Coding Education Platform & HackTheMidlands5.0 Project!
    * [GameOfLifeNeo](https://gameoflifeneo.co.uk/) - Multicolor Web-Based Implementation of Conway's Game of Life.
-   * [CurioBlog](https://curioblog.co.uk) - My Blog!
+   * [CurioBlog](https://curioblog.co.uk) (Frontend) - My Blog!
    * [RedditAgainstHumanity](https://github.com/JackRTolley/MamboViper) (Frontend) - HackTheMidlands4.0 Project!
 1. Java :man_mechanic:
    * [Namespace](https://nmspace.org) (Backend) - Online Coding Education Platform
@@ -22,8 +24,10 @@ I'm a Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](http
    * [MathBot](https://github.com/mgsium/MathBot) - A Math-themed Discord Bot
 1. Rust :scientist:
    * [viper_rs](https://github.com/mgsium/viper-rs) - Open Source VCS
+1. C# & ASP.NET
+   * [CurioBlog](https://curioblog.co.uk) (Backend & CMS) - My Blog!
   
-Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git.
+Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, Figma.
 
 <hr/>
 
