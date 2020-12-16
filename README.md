@@ -39,7 +39,7 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, F
 
 #### Goals for 2020 :triangular_flag_on_post:
 
-- [ ] Contribute to an Open Source Project
+- [x] ~~Contribute to an Open Source Project~~
 - [x] ~~Submit a Project at HackTheMidlands5.0~~
 - [ ] Build Something in Lisp
 - [ ] Launch Namespace Version 1.0
