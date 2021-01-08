@@ -37,12 +37,12 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, F
 * **Functional Programming & Haskell** | Learning to write Haskell using Pauk Hudak's The Haskell School of Expression, and (soon) in Sixth Form, as part of studying functional programming concepts.
 * **Lisp** | Learning to write in LISP using Peter Seibel's Practcial Common Lisp
 
-#### Goals for 2020 :triangular_flag_on_post:
+#### Goals for 2021 :triangular_flag_on_post:
 
-- [x] ~~Contribute to an Open Source Project~~
-- [x] ~~Submit a Project at HackTheMidlands5.0~~
-- [ ] Build Something in Lisp
-- [ ] Launch Namespace Version 1.0
+- [ ] Build a Christopher Emulator in python.
+- [ ] Write a messenger app.
+- [ ] Become proficient in LISP
+- [ ] Go to CD Elite 2021
 
 <hr/>
 
