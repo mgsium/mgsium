@@ -12,6 +12,7 @@ Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](https://nm
 1. ReactJS, JavaScript and Typescript :technologist:
    * [Conure](https://www.conureapp.co.uk/) - A gamified task & planning web app.
    * [Namespace](https://nmspace.org) (Frontend) - Online Coding Education Platform & HackTheMidlands5.0 Project!
+   * [Sol](https://learnwithsol.com) - Video-based Learning Platform & ThetaHacks Best Duo Hack Winner!
    * [GameOfLifeNeo](https://gameoflifeneo.co.uk/) - Multicolor Web-Based Implementation of Conway's Game of Life.
    * [CurioBlog](https://curioblog.co.uk) (Frontend) - My Blog!
    * [RedditAgainstHumanity](https://github.com/JackRTolley/MamboViper) (Frontend) - HackTheMidlands4.0 Project!
