@@ -15,6 +15,7 @@ Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](https://nm
    * [Sol](https://learnwithsol.com) - Video-based Learning Platform & ThetaHacks Best Duo Hack Winner!
    * [GameOfLifeNeo](https://gameoflifeneo.co.uk/) - Multicolor Web-Based Implementation of Conway's Game of Life.
    * [CurioBlog](https://curioblog.co.uk) (Frontend) - My Blog!
+   * [Colandria](https://github.com/mgsium/colandria) - The Reading Directory for Bookworms.
    * [RedditAgainstHumanity](https://github.com/JackRTolley/MamboViper) (Frontend) - HackTheMidlands4.0 Project!
 1. Java :man_mechanic:
    * [Namespace](https://nmspace.org) (Backend) - Online Coding Education Platform
