@@ -43,7 +43,7 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, F
 
 - [ ] Build a Christopher Emulator in python.
 - [ ] Write a messenger app. (<a href="https://github.com/mgsium/paroli" target="_blank">In Progress!</a>)
-- [ ] Become proficient in LISP
+- [ ] Become proficient in LISP (<a href="https://github.com/mgsium/lisplog" target="_blank">Learning Log</a>)
 - [ ] Go to CD Elite 2021
 
 <hr/>
