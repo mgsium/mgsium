@@ -42,7 +42,7 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, F
 #### Goals for 2021 :triangular_flag_on_post:
 
 - [ ] Build a Christopher Emulator in python.
-- [ ] Write a messenger app.
+- [ ] Write a messenger app. (<a href="https://github.com/mgsium/paroli" target="_blank">In Progress!</a>)
 - [ ] Become proficient in LISP
 - [ ] Go to CD Elite 2021
 
