@@ -39,11 +39,13 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, F
 * **Functional Programming & Haskell** | Learning to write Haskell using Pauk Hudak's The Haskell School of Expression, and (soon) in Sixth Form, as part of studying functional programming concepts.
 * **Lisp** | [Learning to write in LISP](https://github.com/mgsium/lisplog) using Peter Seibel's Practical Common Lisp 
 
+<!--
 #### Goals for 2021 :triangular_flag_on_post:
 
 - [ ] Build a Christopher Emulator in python.
 - [ ] Write a messenger app. (<a href="https://github.com/mgsium/paroli" target="_blank">In Progress!</a>)
 - [ ] Become proficient in LISP (<a href="https://github.com/mgsium/lisplog" target="_blank">Learning Log</a>)
+-->
 
 <hr/>
 
