@@ -1,6 +1,6 @@
 ### :space_invader: Hi, I'm Musab 
 
-Sixth Form student in the UK, JS Junkie and Co-Founder of [Namespace](https://nmspace.org).
+Computer Science Student at The University of Warwick<!--, JS Junkie and Co-Founder of [Namespace](https://nmspace.org).-->
 
 ⚡ Fun fact: I am fluent in Arabic, and know a little Russian!
 
