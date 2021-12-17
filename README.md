@@ -22,7 +22,7 @@ Computer Science Student at The University of Warwick<!--, JS Junkie and Co-Foun
    * [Mandelbrot Set](https://github.com/mgsium/mandelbrot-vis) - Implementation of Mandelbrot set Calculations using the Fork-Join Parallel Processing Framework.
 1. Python :man_student:
    * [RedditAgainstHumanity](https://github.com/JackRTolley/MamboViper) (Flask Backend) - HackTheMidlands4.0 Project!
-   * [enigma_py](https://github.com/mgsium/_enigma) - Crappy Enigma 1.0 Emulator
+   * [enigma_py](https://github.com/mgsium/_enigma) - Enigma 1.0 Emulator
    * [MathBot](https://github.com/mgsium/MathBot) - A Math-themed Discord Bot
 1. Rust :scientist:
    * [viper_rs](https://github.com/mgsium/viper-rs) - Open Source VCS
