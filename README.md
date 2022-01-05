@@ -37,7 +37,7 @@ Other stuff I know/use: Docker :whale:, MySQL :card_file_box:, HTML, PHP, Git, F
 #### What I'm Learning Now 🌱
 
 * **Automata Theory**
-* **Functional Programming & Haskell** | Learning to write Haskell using Pauk Hudak's The Haskell School of Expression, and (soon) in Sixth Form, as part of studying functional programming concepts.
+* **Functional Programming & Haskell** | Learning to write Haskell using Pauk Hudak's The Haskell School of Expression.
 * **Lisp** | [Learning to write in LISP](https://github.com/mgsium/lisplog) using Peter Seibel's Practical Common Lisp 
 
 <!--
