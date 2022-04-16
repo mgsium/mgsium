@@ -1,8 +1,15 @@
-### Hi, I'm Musab 
+<h3 align="center">👋 Hi, there! I'm Musab</h3>
+<p align="center">
+  <a href="https://www.dcs.warwick.ac.uk/~u2104643/index.html">Student Page</a>&nbsp;|&nbsp;
+  <a href="https://github.com/mgsium/mgsium/wiki/Project-Index">Projects</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/musabgumaa/">LinkedIn</a>
+</p>
 
-First Year Computer Science Student at The University of Warwick
+---
 
-See my [Student Page](https://www.dcs.warwick.ac.uk/~u2104643/index.html) or [Project Listing](https://github.com/mgsium/mgsium/wiki/Project-Index) for more.
+<p align="center"> 
+  I'm a First Year Computer Science Student at The University of Warwick. For more about me, follow the links above!
+</p>
 
 <!--
 > The Greeks have but one word λόγος, for both Speech and Reason; not that they thought there was no Speech without Reason; but no Reasoning without Speech.
