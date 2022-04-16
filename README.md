@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, there! I'm Musab</h3>
 <p align="center">
   <a href="https://www.dcs.warwick.ac.uk/~u2104643/index.html">Student Page</a>&nbsp;|&nbsp;
-  <a href="https://github.com/mgsium/mgsium/wiki/Project-Index">Projects</a>&nbsp;|&nbsp;
+  <a href="https://github.com/mgsium/mgsium/wiki/Projects">Projects</a>&nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/musabgumaa/">LinkedIn</a>
 </p>
 
