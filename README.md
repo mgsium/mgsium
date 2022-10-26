@@ -8,7 +8,7 @@
 ---
 
 <p align="center"> 
-  I'm a First Year Computer Science Student at The University of Warwick. For more about me, follow the links above!
+  I'm a Second Year Computer Science Student at The University of Warwick. For more about me, follow the links above!
 </p>
 
 <!--
