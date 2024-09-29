@@ -39,7 +39,7 @@
 | Platform | Name/Details                                     |
 |----------|--------------------------------------------------|
 | Discord  | @fermicide                                       |
-| Email    | Musab.Guma-A@warwick.ac.uk                       |
+| Email    | musab.gumaa (AT) st-annes.ox.ac.uk               |
 
 <!--
 **mgsium/mgsium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
