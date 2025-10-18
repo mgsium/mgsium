@@ -8,7 +8,7 @@
 ---
 
 <p align="center"> 
-  I'm a Masters Student at The University of Oxford. For more about me, follow the links above!
+  I'm a Software Engineer at Bending Spoons. For more about me, follow the links above!
 </p>
 
 <!--
@@ -16,20 +16,7 @@
 > 
 > Thomas Hobbes, Leviathan
 
-<hr/>
 
-#### What I'm Learning Now 🌱
-
-* **Lisp** | [Learning to write in LISP](https://github.com/mgsium/lisplog) using Peter Seibel's Practical Common Lisp 
-
--->
-
-<!--
-#### Goals for 2021 :triangular_flag_on_post:
-
-- [ ] Build a Christopher Emulator in python.
-- [ ] Write a messenger app. (<a href="https://github.com/mgsium/paroli" target="_blank">In Progress!</a>)
-- [ ] Become proficient in LISP (<a href="https://github.com/mgsium/lisplog" target="_blank">Learning Log</a>)
 -->
 
 <hr/>
@@ -39,7 +26,7 @@
 | Platform | Name/Details                                     |
 |----------|--------------------------------------------------|
 | Discord  | @fermicide                                       |
-| Email    | musab.gumaa (AT) st-annes.ox.ac.uk               |
+| Email    | musab.gumaa (AT) gmail.com                       |
 
 <!--
 **mgsium/mgsium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
